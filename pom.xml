@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://http://65.1.65.43:8082/repository/dinesh2/</url>
+	      <url>http://http://65.1.65.43:8082/repository/dinesh/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.37.89:9980/mithuntechnologies/repository/aixsbank-snapshot/</url>
+	      <url>http://65.1.65.43:8082/repository/dinesh2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
