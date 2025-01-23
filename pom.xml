@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.37.89:9980/mithuntechnologies/repository/axisbank-releases/</url>
+	      <url>http://http://65.1.65.43:8082/repository/dinesh2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
