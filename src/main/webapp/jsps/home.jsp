@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">manasa loves dinesh</h1>
-<h1 align="center">dinesh</h1>
+<h1 align="center">manasa</h1>
 <h1 align="center"> manasa</h1>
 <hr>
 <br>
