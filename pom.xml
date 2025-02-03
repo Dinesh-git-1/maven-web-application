@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>dinesh</name>
-	      <url>http://13.201.5.146:8082/repository/dini-r2.0/</url>
+	      <url>http://172.31.37.201:8082/repository/dini-r2.0/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>dinesh</name>
-	      <url>http://13.201.5.146:8082/repository/dini-s.2.0/</url>
+	      <url>http://172.31.37.201:8082/repository/dini-s.2.0/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
